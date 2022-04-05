@@ -1,0 +1,38 @@
+{
+    "bundler-app-dev-shell": {
+        "branch": "main",
+        "description": "A Nix function for creating isolated, consistent, Bundler-compatible development environments",
+        "homepage": null,
+        "owner": "fivegoodfriends",
+        "repo": "bundler-app-dev-shell",
+        "rev": "5119ee3f6803ddb4e99b38449bc6b3a21f1ba738",
+        "sha256": "0y637vh9w2xzsr2bas0vvx9b6qg92wmyvychvsd9mhpbwk2x0asj",
+        "type": "tarball",
+        "url": "https://github.com/fivegoodfriends/bundler-app-dev-shell/archive/5119ee3f6803ddb4e99b38449bc6b3a21f1ba738.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "niv": {
+        "branch": "master",
+        "description": "Easy dependency management for Nix projects",
+        "homepage": "https://github.com/nmattia/niv",
+        "owner": "nmattia",
+        "repo": "niv",
+        "rev": "65a61b147f307d24bfd0a5cd56ce7d7b7cc61d2e",
+        "sha256": "17mirpsx5wyw262fpsd6n6m47jcgw8k2bwcp1iwdnrlzy4dhcgqh",
+        "type": "tarball",
+        "url": "https://github.com/nmattia/niv/archive/65a61b147f307d24bfd0a5cd56ce7d7b7cc61d2e.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "nixpkgs": {
+        "branch": "nixpkgs-unstable",
+        "description": "Nix Packages collection",
+        "homepage": "",
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "503209808cd613daed238e21e7a18ffcbeacebe3",
+        "sha256": "09yxyfd1gzcwjs8zm8yhvqpgdzxdj6l4yvjbz675nkk3nw6iyavk",
+        "type": "tarball",
+        "url": "https://github.com/NixOS/nixpkgs/archive/503209808cd613daed238e21e7a18ffcbeacebe3.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    }
+}
