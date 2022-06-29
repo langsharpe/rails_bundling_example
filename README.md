@@ -1,24 +1,9 @@
-# README
+# jsbundling, cssbundling and propshaft demo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Run the servier with bin/dev
 
-Things you may want to cover:
+Interesting files:
 
-* Ruby version
+- Procfile.dev and package.json define which bundler is used.
+- application.postcss.css and application.js are the entrypoints to the js and css bundles.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
